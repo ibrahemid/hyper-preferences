@@ -11,4 +11,6 @@ $ npm i
 ```
 > 3. do a full reload:
 
+![Screenshot](screenshot.png)
+
 
